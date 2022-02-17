@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Ecommerce</string>
+    <string name="action_logout">Logout</string>
+    <string name="title_activity_login">LOGIN</string>
+    <string name="publish">Publish</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="goods_discription">Goods Description</string>
+    <string name="seletct_a_pic">Select a picture</string>
+    <string name="submit">Submit</string>
+    <string name="detail">Details</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">SIGN IN</string>
+    <string name="error_invalid_email">invalid email</string>
+    <string name="error_invalid_password">password must be more than 4 letters</string>
+    <string name="error_incorrect_password">Incorrect password</string>
+    <string name="error_incorrect_phone">Incorrect phone</string>
+    <string name="error_field_required">Field required</string>
+    <string name="title_activity_register">Register</string>
+</resources>

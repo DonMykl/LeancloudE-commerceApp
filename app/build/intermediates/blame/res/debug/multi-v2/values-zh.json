@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\MyLeanCloudApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\donmi\\.gradle\\caches\\transforms-1\\files-1.1\\avoscloud-feedback-4.7.9.aar\\8381913a4a3db69cef32706dfff6cfb3\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,120,183,242,308,373,433",
+                        "endColumns": "64,62,58,65,64,59,73",
+                        "endOffsets": "115,178,237,303,368,428,502"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\donmi\\.gradle\\caches\\transforms-1\\files-1.1\\avoscloud-search-4.7.9.aar\\b395d0d23e44abc8e0a82ca29bed6f0e\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,128,192",
+                        "endColumns": "72,63,62",
+                        "endOffsets": "123,187,250"
+                    },
+                    "to": {
+                        "startLines": "9,10,11",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "507,580,644",
+                        "endColumns": "72,63,62",
+                        "endOffsets": "575,639,702"
+                    }
+                }
+            ]
+        }
+    ]
+}
